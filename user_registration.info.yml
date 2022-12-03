@@ -1,0 +1,5 @@
+name: User Registration
+description: 'User Registration'
+type: module
+package: Custom
+core_version_requirement: ^9 || ^10

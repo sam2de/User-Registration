@@ -1,0 +1,9 @@
+user_registration.form:
+  path: '/registration'
+  defaults:
+    _form: '\Drupal\user_registration\Form\RegistrationForm'
+    _title: 'Registration New User'
+  requirements:
+    _access: 'TRUE'
+  options:
+    _admin_route: TRUE
